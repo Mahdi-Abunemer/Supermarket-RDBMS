@@ -1,4 +1,4 @@
-# Supermarket-RDBMS with c# console application 
+# Supermarket-RDBMS(MariaDB) with c# console application 
 ER Diagram  : 
 
 

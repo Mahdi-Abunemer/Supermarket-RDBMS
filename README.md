@@ -4,7 +4,7 @@ ER Diagram  :
 
 ![لقطة شاشة 2024-12-07 232423](https://github.com/user-attachments/assets/7d826f98-f33c-4224-ae80-323d825f8538)
 
-The tasks applied in this the project👇 :
+The tasks applied in this  project👇 :
 
 1.add_employee: create a new employee (user provides name, position, salary, phone and supermarket_id, hire_date should be set to today)
 
